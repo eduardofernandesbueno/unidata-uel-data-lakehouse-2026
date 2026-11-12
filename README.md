@@ -17,6 +17,44 @@ State University of Londrina (UEL), Brazil
 
 ---
 
+## Engineering Highlights — 60-Second Overview
+
+**2026 | Institutional R&D | Data Engineering & Architecture**
+
+I contributed to the engineering and technical validation of an institutional Data Lakehouse MVP at the State University of Londrina (UEL), working collaboratively with the UNIDATA team at ATI/UEL.
+
+### What I Worked On
+
+| Engineering Area | Documented Contribution |
+|---|---|
+| Data Integration | Controlled ingestion from authorized relational sources |
+| Data Pipelines | Apache Airflow orchestration and Python-based workflows |
+| Data Processing | Apache Spark / PySpark transformations |
+| Data Lakehouse | Landing, Bronze, Silver and Gold processing layers |
+| Data Storage | MinIO and Apache Parquet |
+| Data Quality | Schema checks, consistency validation and data contracts |
+| Reliability | Idempotency, controlled reprocessing and traceability |
+| Analytics Engineering | Curated analytical datasets and SQL serving through Dremio |
+| Business Intelligence | Qlik integration and analytical validation |
+| DataOps | GitLab workflows, Merge Requests, CI checks and technical documentation |
+| Governance | Data minimization, metadata and privacy-aware processing |
+
+### Validated Engineering Outcome
+
+**Completed:** End-to-end functional validation of the defined Data Lakehouse MVP workflow in a controlled local environment in 2026.
+
+**Not claimed:** Institution-wide production deployment, certified analytical data products, measured production scalability or a deployed student-level dropout prediction model.
+
+### Independent Evidence & Research Context
+
+- [Official ATI/UEL Team — Institutional Affiliation](https://sites.uel.br/ati/estrutura-e-equipe/)
+- [SBIE 2026 — Peer-Reviewed Research Publication](https://doi.org/10.5753/sbie.2026.27263)
+- [SBIE 2026 — Supplementary Research Artifacts](https://github.com/eduardofernandesbueno/sbie2026-evasao-ensino-superior-artefatos)
+- [Professional Portfolio](https://eduardofernandesbueno.github.io/)
+
+**Disclosure:** This is a personal documentation-only case study. It does not contain institutional software, datasets, credentials, internal architecture or confidential operational information.
+
+---
 ## 1. Executive Summary
 
 **Engineering institutional data systems. Building trustworthy analytical foundations. Connecting software engineering, data architecture, and scientific research.**
