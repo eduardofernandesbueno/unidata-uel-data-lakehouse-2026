@@ -1,4 +1,4 @@
-# UNIDATA/UEL — Data Lakehouse Engineering, Architecture & Governance
+# UniData/UEL — Data Lakehouse Engineering, Architecture & Governance
 
 **Institutional Data Engineering · Data Architecture · Analytics Engineering · DataOps · Research & Development**
 
